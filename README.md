@@ -1,13 +1,13 @@
 # IoT-teamD
 
-# Project Overview
-# This is an IoT-based automated pet care solution designed to revolutionize how pet owners manage their pets' feeding routines and health monitoring.
-# Key Features
-# 1. Feeding Automation
+## Project Overview
+### This is an IoT-based automated pet care solution designed to revolutionize how pet owners manage their pets' feeding routines and health monitoring.
+## Key Features
+## 1. Feeding Automation
 
-# Ensures pets are fed consistently and on time
-# Eliminates the need for manual feeding schedules
-# Provides reliable meal delivery even when owners are away
+### Ensures pets are fed consistently and on time
+### Eliminates the need for manual feeding schedules
+### Provides reliable meal delivery even when owners are away
 
 # 2. Scheduled Feeding
 
