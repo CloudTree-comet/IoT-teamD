@@ -28,6 +28,3 @@ This project delivers a cutting-edge automated pet care solution that combines I
 
 ---
 
-<div align="center">
-  <strong>Built with ❤️ for our four-legged family members</strong>
-</div>
