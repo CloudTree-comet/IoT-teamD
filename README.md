@@ -3,23 +3,23 @@
 ## Project Overview
 ### This is an IoT-based automated pet care solution designed to revolutionize how pet owners manage their pets' feeding routines and health monitoring.
 ## Key Features
-## 1. Feeding Automation
+### 1. Feeding Automation
 
-### Ensures pets are fed consistently and on time
-### Eliminates the need for manual feeding schedules
-### Provides reliable meal delivery even when owners are away
+#### Ensures pets are fed consistently and on time
+#### Eliminates the need for manual feeding schedules
+#### Provides reliable meal delivery even when owners are away
 
-# 2. Scheduled Feeding
+### 2. Scheduled Feeding
 
-# Simplifies meal times with automated schedules for pets
-# Allows customizable feeding times and portions
-# Enables pre-programmed feeding routines
+#### Simplifies meal times with automated schedules for pets
+#### Allows customizable feeding times and portions
+#### Enables pre-programmed feeding routines
 
-# 3. Weight Monitoring
+### 3. Weight Monitoring
 
-# Tracks food consumption for better pet health management
-# Monitors eating patterns and habits
-# Helps detect potential health issues early through consumption data
+#### Tracks food consumption for better pet health management
+#### Monitors eating patterns and habits
+#### Helps detect potential health issues early through consumption data
 
 # Technology Application
 # This project leverages Internet of Things (IoT) technology to create a comprehensive pet care ecosystem that combines:
