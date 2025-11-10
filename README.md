@@ -28,3 +28,7 @@ This project delivers a cutting-edge automated pet care solution that combines I
 
 ---
 
+##  Update History
+- Complete overall circuit design : 2025-11-06
+- Remove buzzer, expand LCD, add 4 buttons : 2025-11-10
+
